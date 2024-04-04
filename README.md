@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/AdityaHalder/Genius-Userbot"><img src="https://graph.org/file/f4e175b28e96bc3fb4cf4.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
+<a href="https://github.com/jack77force/Genius-Userbot"><img src="https://telegra.ph/file/0838df903f23bf2e37b9d.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@ Genius-Userbot is an advanced & powerful multi-featured Telegram userbot.
 </p>
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AdityaHalder/Genius-Userbot">
+<a href="https://heroku.com/deploy?template=https://github.com/jack77force/Genius-Userbot">
 <img src="AdityaHalder/resource/images/Heroku.svg" alt="Deploy to Heroku"></a>
 </p>
 
@@ -24,9 +24,9 @@ Genius-Userbot is an advanced & powerful multi-featured Telegram userbot.
 <h2>🌐 Updates & Support</h2>
 <p title="Support">You can join Genius-Userbot's official Telegram channel and group on Telegram for any Genius-Userbot updates and support-related issues.</p>
 
-- Telegram Updates: [**`@AdityaServer`**](https://t.me/adityaserver)
+- Telegram Join: [**`@TOXIC_SERVER`**](https://t.me/+KaeE-aa-Fdg0YjA1)
 
-- Telegram Support: [**`@AdityaDiscus`**](https://t.me/adityadiscus)
+- Telegram Support: [**`@TOXIC_DISCUSS`**](https://t.me/toxic_mod_vip)
 > [!WARNING]  
 > Verify the username of Genius-Userbot's official Telegram channel and group. If you face a problem with a fake channel or group, Genius-Userbot will not take responsibility for it, so I request that you verify Genius-Userbot's official Telegram channel and group.
 
